@@ -36,7 +36,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 ## Section 2
 
-The sample mean is defined in Equation \@ref(eq:mean)..h
+The sample mean is defined in Equation \@ref(eq:mean).
 
 \begin{equaiton}
 \bar{x} = \sum_{i=1}^n\frac{x_i}{n}
